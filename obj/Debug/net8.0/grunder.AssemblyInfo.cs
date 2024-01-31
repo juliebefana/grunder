@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("grunder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e23d36c983f8bd35e4c8dbac3a52071db38b02d")]
 [assembly: System.Reflection.AssemblyProductAttribute("grunder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("grunder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

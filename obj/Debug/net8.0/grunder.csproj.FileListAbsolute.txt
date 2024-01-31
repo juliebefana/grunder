@@ -12,3 +12,4 @@ C:\Users\marcu\grunder\obj\Debug\net8.0\refint\grunder.dll
 C:\Users\marcu\grunder\obj\Debug\net8.0\grunder.pdb
 C:\Users\marcu\grunder\obj\Debug\net8.0\grunder.genruntimeconfig.cache
 C:\Users\marcu\grunder\obj\Debug\net8.0\ref\grunder.dll
+C:\Users\marcu\grunder\obj\Debug\net8.0\grunder.sourcelink.json
