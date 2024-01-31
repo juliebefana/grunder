@@ -1,0 +1,14 @@
+C:\Users\marcu\grunder\bin\Debug\net8.0\grunder.exe
+C:\Users\marcu\grunder\bin\Debug\net8.0\grunder.deps.json
+C:\Users\marcu\grunder\bin\Debug\net8.0\grunder.runtimeconfig.json
+C:\Users\marcu\grunder\bin\Debug\net8.0\grunder.dll
+C:\Users\marcu\grunder\bin\Debug\net8.0\grunder.pdb
+C:\Users\marcu\grunder\obj\Debug\net8.0\grunder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\grunder\obj\Debug\net8.0\grunder.AssemblyInfoInputs.cache
+C:\Users\marcu\grunder\obj\Debug\net8.0\grunder.AssemblyInfo.cs
+C:\Users\marcu\grunder\obj\Debug\net8.0\grunder.csproj.CoreCompileInputs.cache
+C:\Users\marcu\grunder\obj\Debug\net8.0\grunder.dll
+C:\Users\marcu\grunder\obj\Debug\net8.0\refint\grunder.dll
+C:\Users\marcu\grunder\obj\Debug\net8.0\grunder.pdb
+C:\Users\marcu\grunder\obj\Debug\net8.0\grunder.genruntimeconfig.cache
+C:\Users\marcu\grunder\obj\Debug\net8.0\ref\grunder.dll
